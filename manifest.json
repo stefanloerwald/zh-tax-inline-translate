@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Inline translate",
+  "version": "1.0.0",
+  "description": "Modifies the Canton of Zurich website to display inline translations.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "action": {
+      
+  },
+  "permissions": [
+    "storage"
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "inline_translate.js"
+      ],
+      "matches": [
+        "https://*.zh.ch/*"
+      ]
+    }
+  ]
+}
