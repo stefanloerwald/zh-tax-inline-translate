@@ -13,6 +13,11 @@ No guarantees are given for translations, nor is it guaranteed that the tool con
 3. Click "Load unpacked"
 4. Select the folder containing the repository
 
+## Notes
+
+The website must be untranslated *before* activating the inline translation.
+Keep it in German, then toggle the inline translation to on, then activate translation.
+
 # Attribution
 
 Icon source attribution: [Translation icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/translation)
