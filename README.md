@@ -18,6 +18,12 @@ No guarantees are given for translations, nor is it guaranteed that the tool con
 The website must be untranslated *before* activating the inline translation.
 Keep it in German, then toggle the inline translation to on, then activate translation.
 
+Step 1: prepare the inline translation by clicking the extension icon.
+![Prepare inline translation](step1.png)
+
+Step 2: Use the built-in translate feature to translate into the target language
+![Activate translation](step2.png)
+
 # Attribution
 
 Icon source attribution: [Translation icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/translation)
