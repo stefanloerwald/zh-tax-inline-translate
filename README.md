@@ -18,6 +18,9 @@ No guarantees are given for translations, nor is it guaranteed that the tool con
 The website must be untranslated *before* activating the inline translation.
 Keep it in German, then toggle the inline translation to on, then activate translation.
 
+Step 0: make sure the website is in German before toggling the inline translation state.
+![Website is in German](step0.png)
+
 Step 1: prepare the inline translation by clicking the extension icon.
 ![Prepare inline translation](step1.png)
 
